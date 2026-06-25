@@ -1,7 +1,21 @@
 <?php
 class persona{
     public function saludar(){
-        echo "este es el primer ejercicio con programacion orientada a objetos";
+        echo "hola mapachezon que lo k". "</br>";
+    }
+    public function poderes(){
+        echo"rabia, uñas y garras y colmillos". "</br>";
+    }
+}
+class animal{
+    public function perro(){
+     echo "alto y color cafe" . "</br>";
+    }
+    public function ladrar(){
+        echo "wuau wuauuu " . "</br>";
+    }
+    public function morder(){
+        echo " muerde " . "</br>";
     }
 }
 ?>
